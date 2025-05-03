@@ -151,6 +151,7 @@ Enjoy sinking ships! 🎯
 ## 9. Some Images From the Game
 ![5](https://github.com/user-attachments/assets/01783777-e139-463c-85d6-d9742f6d7f21)
 ![2](https://github.com/user-attachments/assets/e1b84d76-8eb1-4894-b225-8ed052de38e3)
+![3](https://github.com/user-attachments/assets/455b11ec-3013-4590-a41d-88389fd1bf3b)
 ![1](https://github.com/user-attachments/assets/f7c44885-1b62-4bb7-8542-4f13dd5a3f3c)
 
 
