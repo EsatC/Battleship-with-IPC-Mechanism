@@ -1,6 +1,3 @@
-Thought for 4 seconds
-
-
 # Battleship with Inter‑Process Communication (IPC)
 
 A terminal‑based Battleship game written in C that showcases:
