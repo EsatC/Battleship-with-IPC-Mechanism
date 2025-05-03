@@ -67,7 +67,7 @@ typedef struct {
     int  total_ship_cells;
     int  score;
     int  last_hit_row, last_hit_col; // AI memory
-} Player;                                  :contentReference[oaicite:0]{index=0}:contentReference[oaicite:1]{index=1}
+} Player;                                 
 ```
 
 * `EMPTY`, `SHIP`, `HIT`, `MISS` glyphs keep the UI simple.
